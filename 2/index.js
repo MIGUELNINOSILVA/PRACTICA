@@ -1,6 +1,6 @@
 // Fetch
 //Fetch está basado en promesas
-const url = 'https://pokeapi.co/api/v2/pokemon/50';
+const url = 'https://pokeapi.co/api/v2/pokemon/3';
 
 //Fetch es una alternativa para trabajar por HTTP, basado en promesas
 
