@@ -14,6 +14,12 @@ h1 {
     font-size: 4rem;
 }
 
+h2{
+    text-align: center;
+    color: #fff;
+    margin: 2rem;
+}
+
 .container {
     margin: 0 2rem;
     /* Usando Flex */
@@ -27,6 +33,12 @@ h1 {
     grid-auto-rows: auto;
     gap: 1rem;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+}
+
+.datos-array{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 5rem;
 }
 
 /* Tarjetas */
